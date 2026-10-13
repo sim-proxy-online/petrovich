@@ -1,7 +1,3 @@
-<div align="center">
-
-<img src="docs/img/icon.png" alt="Квадрат Петровича" width="96" />
-
 # Квадрат Петровича
 
 **VPN-клиент с умным обходом блокировок для Android и Windows**  

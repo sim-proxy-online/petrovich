@@ -7,7 +7,7 @@
 
 <br/>
 
-[![Android](https://img.shields.io/badge/▼%20Android%20APK-3.0.0-3ddc84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/sim-proxy-online/petrovich/releases/download/v3.0.0/KvadratPetrovicha-v3.0.0.apk)
+[![Android](https://img.shields.io/badge/▼%20Android%20APK-3.0.3-3ddc84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/sim-proxy-online/vpn_app/releases/download/v3.0.3/KvadratPetrovicha-v3.0.3.apk)
 [![Windows Setup](https://img.shields.io/badge/▼%20Windows%20Setup-3.0.0-0078d4?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/sim-proxy-online/petrovich/releases/download/v3.0.0/KvadratPetrovicha-Setup-3.0.0.exe)
 [![Windows Portable](https://img.shields.io/badge/▼%20Portable%20EXE-3.0.0-6c6c6c?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/sim-proxy-online/petrovich/releases/download/v3.0.0/KvadratPetrovicha-3.0.0-portable.exe)
 
@@ -128,7 +128,7 @@ VLESS · VMess · Trojan · Shadowsocks · Hysteria2 · TUIC · WireGuard · REA
 ## Установка
 
 ### Android
-1. Скачайте [`KvadratPetrovicha-v3.0.0.apk`](https://github.com/sim-proxy-online/petrovich/releases/download/v3.0.0/KvadratPetrovicha-v3.0.0.apk)
+1. Скачайте [`KvadratPetrovicha-v3.0.3.apk`](https://github.com/sim-proxy-online/vpn_app/releases/download/v3.0.3/KvadratPetrovicha-v3.0.3.apk)
 2. Откройте файл на устройстве → разрешите установку из неизвестных источников
 3. Добавьте подписку (ссылка / QR / буфер обмена) и нажмите на Петровича
 
